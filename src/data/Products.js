@@ -3,15 +3,16 @@ const products = [
     id: 1,
     name: 'Proyecto "PENNE"',
     description: 'Este proyecto fue uno de los primeros que hize mientras estudiaba analista programador',
-    image: 'proyectos/ProyectoExpress.webp'
+    image: 'src/asstets/proyectos/ProyectoExpress.webp'
   },
   {
     id: 2,
     name: 'Proyecto NoLimits',
     description: 'Estuve involucrado en el front end de este proyecto y hicimos la pagina web de esta',
-    image: 'proyectos/ProyectoNoLimits.webp'
+    image: 'src/assets/proyectos/ProyectoNoLimits.webp'
   }
 ];
 
 
 export default products;
+
