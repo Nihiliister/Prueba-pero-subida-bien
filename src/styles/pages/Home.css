@@ -1,0 +1,30 @@
+.titulo-main{
+    color: white;
+}
+
+.descripcion-main{
+    color: white;
+}
+
+.mambo{
+    display: flex;
+    justify-content: center;
+    min-height: 100vh;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+}
+
+.logo{
+    width: 200px;
+    height: 200px;
+    overflow: hidden;
+    border-radius: 50%;
+    margin-bottom: 1.5rem;
+}
+
+.logo img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
